@@ -16,7 +16,15 @@ minify:
 params:
   env: production 
   title: "The Engineer's Code: A Technical Blog by Donal"
-  description: "ExampleSite description"
+  description: "'The Engineer's Code,' a technical blog by Donal, where engineering meets code. Explore the intersection of engineering, data, and technology through a practical lens.
+    Here, you'll find:
+
+    - In-depth project breakdowns: Discover how engineering principles and coding come together to solve real-world challenges.
+    - Data-driven insights: Uncover the power of data analysis and machine learning in engineering applications.
+    - Technical tutorials and guides: Learn new skills and techniques to enhance your engineering toolkit.
+    - Personal reflections: Gain insights into the life of an engineer who's passionate about technology and problem-solving.
+
+    Whether you're an engineer, a coder, or simply curious about the world of technology, 'The Engineer's Code' offers a unique perspective and a wealth of practical knowledge."
   keywords: [Blog, Portfolio, Engineering, Programming, Data Analysis]
   author: "Donal Glavin" 
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -72,15 +80,23 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: "G'day! 👋 Welcome to The Engineer's Code: A Technical Blog by Donal, where I share insights and innovations from the world of engineering. Here, you'll find a collection of my projects, interests, and stories from both my professional and personal life. Feel free to explore, get inspired, or even reach out if you'd like to collaborate. Happy reading!"
+    Content: "G'day! 👋 Welcome to The Engineer's Code: 
+      A Technical Blog by Donal, where I share insights and innovations from the world of engineering. 
+      
+      Here, you'll find a collection of my projects, interests, and stories from both my professional and personal life. Feel free to explore, get inspired, or even reach out if you'd like to collaborate. 
+
+      Happy reading!"
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      title: My GitHub.
+      url: "https://github.com/donalglavin"
+    - name: linkedin
+      title: My LinkedIn.
+      url: "https://linkedin.com/in/donalglavin"
+    - name: KoFi
+      title: Buy me a Ko-Fi :)
+      url: "https://ko-fi.com/donalglavin"
 
   analytics:
     google:
