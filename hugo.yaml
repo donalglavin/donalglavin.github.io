@@ -1,5 +1,6 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: "https://donalglavin.github.io/"
+languageCode: en-au
+title: "The Engineer's Code: A Technical Blog by Donal"
 paginate: 5
 theme: PaperMod
 
@@ -13,15 +14,14 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  env: production 
+  title: "The Engineer's Code: A Technical Blog by Donal"
   description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
-  # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  keywords: [Blog, Portfolio, Engineering, Programming, Data Analysis]
+  author: "Donal Glavin" 
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark # auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -57,12 +57,12 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    title:  "The Engineer's Code: A Technical Blog by Donal"    
+    subtitle: "Solving Real-World Problems with Engineering, Code and Data"
+    # imageUrl: "<img location>"
+    # imageWidth: 120
+    # imageHeight: 120
+    # imageTitle: my image
     buttons:
       - name: Posts
         url: posts
@@ -72,7 +72,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: "G'day! 👋 Welcome to The Engineer's Code: A Technical Blog by Donal, where I share insights and innovations from the world of engineering. Here, you'll find a collection of my projects, interests, and stories from both my professional and personal life. Feel free to explore, get inspired, or even reach out if you'd like to collaborate. Happy reading!"
 
   socialIcons:
     - name: x
@@ -84,19 +84,19 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-HLK22ZW2F0"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+  editPost: 
+    URL: "https://github.com/donalglavin/donalglavin.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -111,6 +111,11 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
 menu:
   main:
     - identifier: categories
