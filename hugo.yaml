@@ -1,3 +1,49 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: https://donalglavin.github.io/
+languageCode: en-au
+defaultContentLanguage: en-au
+title: " \U00002692 The Engineer's Code \U00002692"
+pagination.pagerSize: 5
+
+params: 
+  author: Donal
+  contact: 
+    email: donal.l.glavin@gmail.com
+    phone: +61 419 449 784
+    github: "https://github.com/donalglavin"
+    linkedin: "https://linkedin.com/in/donalglavin"
+    upwork: https://www.upwork.com/freelancers/~01502bd7381129d633
+    kofi: "https://ko-fi.com/donalglavin"
+
+menu: 
+  main:
+    - name: Posts
+      identifier: posts
+      url: /posts
+      weight: 10
+
+    - name: Projects
+      identifier: projects
+      url: /projects
+      weight: 20
+
+    - name: About
+      identifier: about
+      url: /about
+      weight: 30
+
+    - name: Put me to work
+      identifier: contact
+      url: /contact
+      weight: 40
+
+archetypeDir: archetypes
+assetDir: assets
+layoutDir: layouts
+contentDir: content
+dataDir: resources
+
+noBuildLock: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
