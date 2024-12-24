@@ -5,9 +5,9 @@ tags: []
 title: Home
 ---
 
-## Welcome.
-This is a collection of stories, projects, work and ideas from my professional life interests and hobbies that I hope
-will help you in some aspect of your either your hobbies or work.
+## G'Day & Welcome 👋.
+This is my personal website which consists of a collection of blog posts, projects, tutorials, work and ideas from my
+professional life interests and hobbies that I hope will help you in some aspect of your either your hobbies or work.
  
 The links below are connected through to Medium, a site that aids in the monetization of story telling allowing
 people to share the life lessons and get paid for people reading them. 
