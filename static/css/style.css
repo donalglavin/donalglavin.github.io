@@ -22,7 +22,7 @@ blockquote {
 
 a {
   color: #44e;
-  text-decoration: none;
+  /*text-decoration: none;*/
 }
 
 header {
@@ -51,6 +51,12 @@ header {
 .site-nav a {
   display: block;
   padding: 1rem;
+  margin: 2px;
+  background-color: #b0bec5;
+  color: #263238;
+  font-weight: bold;
+  border-radius: 5px;
+  text-decoration: none;
 }
 
 .site-nav .logo {
@@ -59,8 +65,8 @@ header {
   display:flex;
   align-items: center;
   justify-content: center;
-  /*color: #f2CCB7;*/
-  /*background-color: #A80000*/
+  color: #cfd8dc;
+  background-color: #263238;
 }
 
 .main-menu {
@@ -75,10 +81,8 @@ header {
   .main-menu {
     flex-direction: column;
   }
-
   .site-nav a {
     padding: 0.5rem;
-    padding-left: 0;
   }
 }
 
@@ -94,4 +98,22 @@ header {
 /* FOOTER */
 footer {
   color: grey;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #b0bec5;
+  border-radius: 5px;
+  padding: 0 20px;
+  margin: 0px;
+}
+
+.link-section {
+  background-color: #cfd8dc;
+  border-radius: 5px;
+  padding: 0px 10px;
+}
+
+.contact-logo {
+  margin: 5px 5px;
+  height: 20px;
 }

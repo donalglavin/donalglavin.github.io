@@ -1,18 +1,36 @@
 baseURL: https://donalglavin.github.io/
 languageCode: en-au
 defaultContentLanguage: en-au
-title: "The Engineer's Code"
+title: "An Engineer's Code"
 pagination.pagerSize: 5
 
+phone: +61 419 449 784
 params: 
   author: Donal
   contact: 
-    email: donal.l.glavin@gmail.com
-    phone: +61 419 449 784
-    github: "https://github.com/donalglavin"
-    linkedin: "https://linkedin.com/in/donalglavin"
-    upwork: https://www.upwork.com/freelancers/~01502bd7381129d633
-    kofi: "https://ko-fi.com/donalglavin"
+    # - name: email
+    #   icon: /icons/gmail-svgrepo-com.svg
+    #   link: mailto:donal.l.glavin@gmail.com
+
+    - name: github
+      icon: /icons/github.svg
+      link: https://github.com/donalglavin
+
+    - name: linkedin
+      icon: /icons/linkedin.svg 
+      link: https://linkedin.com/in/donalglavin
+
+    - name: ko-fi
+      icon: /icons/ko-fi.svg
+      link: https://ko-fi.com/donalglavin
+
+    - name: upwork
+      icon: /icons/upwork.svg
+      link: https://www.upwork.com/freelancers/~01502bd7381129d633
+
+    - name: freelancer 
+      icon: /icons/freelancer.svg
+      link: https://www.freelancer.com.au/u/donalg?frm=donalg&sb=t
 
 markup: 
   goldmark:
@@ -31,7 +49,7 @@ menu:
       url: /projects
       weight: 20
 
-    - name: About
+    - name: About me
       identifier: about
       url: /about
       weight: 30
