@@ -3,6 +3,7 @@ id: FreeCAD TechDraw Templating Tool
 aliases: []
 tags: []
 date: "2024-12-01"
+draft: true
 title: FreeCAD TechDraw Templating Tool
 ---
 
