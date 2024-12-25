@@ -29,21 +29,23 @@ full time job.
 This interest is aimed towards the faint hope to be able retire early. (I don't like my chances however, I'll keep you posted..)
 
 ## Analytics & Numerical Modeling.
-I know I'm the odd one out but I've always enjoyed Mathematics (so much so I extended my bachelors a year to get a
-degree in it)
+I know I'm the odd one out, but I've always enjoyed Mathematics *(to the extent that I extended my degree a year to get a
+major in it)*
 
-Understanding how the analytic expressions associated with the world around us are defined. Along with the numerical and 
+Understanding how the analytic expressions can be used to describe the world around us. Along with the numerical and 
 computational processes involved in breaking them down into a language a computer understands is a process that, still
-now over 12 years from starting university still blows my mind!
+now, over 12 years after starting university, still blows my mind!
 
 I love diving into the worlds of computational fluid dynamics, discrete element methods, and finite element analysis.
 
+
 ## Statistics, Machine Learning & Data Analysis.
+Ever since completing my first statistics course in 
 I'm always looking for ways to crunch numbers and find patterns, particularly in finance and real estate.
 
 ## Automation & Software.
 I'm a firm believer that <span style="text-decoration:underline; text-decoration-thickness: 1px;">the difference between a good and a great tradesman is,
-one never blames his tools and the other can make their own.</span>
+one never blames his tools, and the other makes their own.</span>
 
 In this context the difference is an engineers tooling more generally exists in software whilst a tradesman's tools are more often than not hardware.
 
