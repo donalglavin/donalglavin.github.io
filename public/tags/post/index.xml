@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/post/</link>
+    <description>Recent content in Post on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating Your Very Own Hugo Website.</title>
+      <link>http://localhost:1313/posts/creating-your-own-hugo-website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creating-your-own-hugo-website/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction.&lt;/h1&gt;&#xA;&lt;p&gt;Having a website is one of those things that a lot of people talk about but not everyone actually ever does.&#xA;With the power of Hugo and GitHub Pages the usual challenges of: &lt;strong&gt;How to I get a domain and put it on the Internet?&lt;/strong&gt;&#xA;And &lt;strong&gt;It seems like so much work&amp;hellip;&lt;/strong&gt; Essentially boil down to just a learning curve that although it seems steep at the&#xA;start becomes almost trivial once you&amp;rsquo;ve got the hand of it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
