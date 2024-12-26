@@ -4,14 +4,9 @@ defaultContentLanguage: en-au
 title: "An Engineer's Code"
 pagination.pagerSize: 5
 
-phone: +61 419 449 784
 params: 
   author: Donal
   contact: 
-    # - name: email
-    #   icon: /icons/gmail-svgrepo-com.svg
-    #   link: mailto:donal.l.glavin@gmail.com
-
     - name: github
       icon: /icons/github.svg
       link: https://github.com/donalglavin
