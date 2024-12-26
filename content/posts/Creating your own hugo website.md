@@ -2,7 +2,7 @@
 id: Creating your own hugo website
 aliases: []
 tags: []
-date: "2024-12-01"
+date: 2024-12-01
 title: Creating Your Very Own Hugo Website.
 draft: true
 ---

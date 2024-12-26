@@ -2,6 +2,7 @@
 id: home
 aliases: []
 tags: []
+date: '2024-12-01'
 title: Home
 ---
 

@@ -2,6 +2,7 @@
 id: Put me to work
 aliases: []
 tags: []
+date: '2024-12-01'
 title: Put me to work
 ---
 
