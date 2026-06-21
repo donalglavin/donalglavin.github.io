@@ -1,7 +1,7 @@
 baseURL: https://donalglavin.github.io/
 locale: en-AU
 defaultContentLanguage: en-au
-title: "Personal Blog"
+title: "Personal Blog."
 pagination.pagerSize: 5
 
 params:
