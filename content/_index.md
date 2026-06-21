@@ -5,21 +5,26 @@ tags: []
 date: '2024-12-01'
 title: Home
 ---
+## Welcome.
+This is my personal site — a collection of posts, projects, tutorials, and the occasional deep dive into the things
+I'm curious about: mechanical engineering, software, finance, and life outside of work.
 
-## G'Day & Welcome 👋.
-This is my personal website which consists of a collection of posts, personal projects, tutorials, ideas from my
-professional life, interests and hobbies! 
+I write mostly to think things through properly and document what I've learned along the way. If something here saves
+you a few hours on a problem I've already wrestled with, that's the whole point.
 
-Hopefully you'll find something in there that will help you in some way shape or form!
- 
-Some of the links on this site are connected through to Medium. Which is a platform that helps people (like me) who want to
-share their ideas, and things they've learned and with others and earn a little bit of money on the side to fund future projects
-(mainly through adds).
+## What you'll find here.
+- **Engineering** — notes on reliability, asset management, and computational tools like OpenFOAM and CalculiX, drawn
+  from a decade spent keeping critical infrastructure running in heavy industry.
+- **Software & Automation** — Linux, NixOS, Python, C++, and the tooling I build to make engineering (and everyday)
+  workflows faster and more reliable.
+- **Finance** — quantitative approaches to markets, automated trading, and the occasional spreadsheet rabbit hole.
+- **Field Notes** — posts from outside the office, including a recent stretch working trail crew and snowmaking in
+  the Canadian Rockies.
 
-Feel free to sign up to Medium, as it opens you up to a huge amount of resources and your membership fees are used to
-fund the people writing on the platform make of more posts that interest you.
+## A note on Medium.
+Some posts link through to [Medium](https://medium.com), where I publish longer-form pieces. It's a solid platform if
+you're after more in-depth writing across a huge range of topics, and a subscription helps support the writers —
+myself included — who publish there. There's also a generous amount of free content available, so feel free to browse
+without committing to anything.
 
-You still get some access for free to Medium so have a browse and let me know if there's anything you'd
-like me to explore or elaborate on. 
-
-I'm open to requests and I'm also doing freelance work at the moment so feel free to reach out and of course, happy reading!
+If there's a topic you'd like me to cover or expand on, let me know — I'm always happy to take suggestions.

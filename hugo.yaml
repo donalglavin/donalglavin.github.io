@@ -1,18 +1,18 @@
 baseURL: https://donalglavin.github.io/
 languageCode: en-au
 defaultContentLanguage: en-au
-title: "An Engineer's Code"
+title: "Personal Blog"
 pagination.pagerSize: 5
 
-params: 
+params:
   author: Donal
-  contact: 
+  contact:
     - name: github
       icon: /icons/github.svg
       link: https://github.com/donalglavin
 
     - name: linkedin
-      icon: /icons/linkedin.svg 
+      icon: /icons/linkedin.svg
       link: https://linkedin.com/in/donalglavin
 
     - name: ko-fi
@@ -23,16 +23,16 @@ params:
       icon: /icons/upwork.svg
       link: https://www.upwork.com/freelancers/~01502bd7381129d633
 
-    - name: freelancer 
+    - name: freelancer
       icon: /icons/freelancer.svg
       link: https://www.freelancer.com.au/u/donalg?frm=donalg&sb=t
 
-markup: 
+markup:
   goldmark:
-    renderer: 
+    renderer:
       unsafe: true
 
-menu: 
+menu:
   main:
     - name: Posts
       identifier: posts

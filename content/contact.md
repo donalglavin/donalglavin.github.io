@@ -1,18 +1,19 @@
 ---
-id: Put me to work
-aliases: []
+id: contact
+aliases: ['Put me to work']
 tags: []
 date: '2024-12-01'
-title: Put me to work
+title: Get in Touch
 ---
+# Get in Touch.
+I'm currently based in Australia and actively looking for my next role as a Mechanical Engineer, with a particular
+interest in reliability, asset management, and capital projects within mining and heavy industry.
 
-# Available for Freelance.
+I'm also open to select contract, consulting, and freelance work — particularly anything touching engineering
+analysis, automation, or data — through my Upwork and Freelancer profiles.
 
-I'm currently overseas enjoying an extended working holiday and available for freelance tasks through my
-Freelancer and UpWork profiles. 
-
-If you're interested in collaboration, you have questions or, you'd like to put me to work 
-(and held fund the extend the holiday) Feel free to reach out! 
+Whether you're hiring, have a project in mind, or just want to say hello, I'd love to hear from you.
 
 - <a href="https://www.upwork.com/freelancers/~01502bd7381129d633">Reach out via <img src="/icons/upwork-color-full.svg" align="center" height="80"></a>
-- <a href="https://www.freelancer.com.au/u/donalg?frm=donalg&sb=t ">Reach out via <img src="/icons/freelancer-logo-full.svg" align="center" height="30"></a>
+- <a href="https://www.freelancer.com.au/u/donalg?frm=donalg&sb=t">Reach out via <img src="/icons/freelancer-logo-full.svg" align="center" height="30"></a>
+- [Email me directly](mailto:donal.l.glavin@gmail.com)

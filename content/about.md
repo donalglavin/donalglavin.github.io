@@ -5,59 +5,68 @@ aliases: []
 tags: []
 title: About
 ---
-G'Day! 👋
+I'm a Mechanical Engineer based in Australia, with over seven years' experience leading reliability, maintenance, and
+capital projects across underground mining — spanning uranium, copper, and gold operations in the Northern Territory
+and Queensland.
 
-I'm a Mechanical Engineer based in Australia with over 7 years experience working in mining across Uranium, Copper and
-Gold operations in both the Northern Territory and Queensland. 
+My formal training includes a dual Bachelor of Engineering (Honours) and Bachelor of Science, majoring in Mechanical
+Engineering and Mathematics, from James Cook University, and more recently a Graduate Diploma in Finance from
+Griffith University. Outside of formal study, I've always had a strong interest in software development, data
+analysis, and programming.
 
-While my formal training includes a Duel Bachelors of Engineering (Honours) and Bachelors of Science majoring in Mechanical Engineering and Mathematics from James Cook
-University and more recently a Graduate Diploma of Finance from Griffith University, 
+I started this site to document some of the projects I've worked on, along with the broader interests that keep me
+curious outside the day job. My hope is that something here sparks an idea for you *(the reader)*, or helps you make
+progress on a project of your own.
 
-I've always had a passion for software development, data analysis, and programming. I created this website to share some
-of the projects I've been working on, as well as my general interests and things I've learned along the way. 
+## Engineering & Reliability.
+Most of my career has centred on keeping critical infrastructure running — and running well — in some demanding
+environments. That's meant a lot of time spent on root cause analysis, asset strategy, and capital projects where the
+cost of getting it wrong is measured in days of lost production. I've led teams through major shutdowns and
+emergency events, designed reliability improvements for fixed and mobile plant, and worked across the full lifecycle
+of mine infrastructure projects, from concept through to commissioning.
 
-My hope is, it'll spark some ideas for you *(the reader)* or help you out with one of your own current projects!
+I also enjoy the more technical, modelling-heavy side of the discipline — structural assessments, FMECA-based asset
+strategies, and increasingly, using open-source simulation tools like OpenFOAM (CFD) and CalculiX/Code_Aster (FEA) to
+explore problems outside the constraints of a commercial licence.
 
-## Finance 
-Since completing my Graduate Diploma in finance I developed a substantial interest into both fundamental and technical analysis associated with trading assets.
+## Finance.
+Since completing my Graduate Diploma in Finance, I've developed a genuine interest in both fundamental and technical
+analysis of traded assets. Engineering and finance overlap more than people often expect — project costing, net
+present value, and building the business case for capital expenditure all draw on the same underlying skill set.
 
-Although, engineering and finance work well together when considering project costing, net present value and communicating with the business to justify capital expenditure.
+My personal interest leans toward the statistics and machine learning side of market forecasting — a problem that's
+notoriously difficult to solve well, even for people who do it full-time as a profession. I track my own trading
+activity and experiment with automated strategies, partly out of curiosity and partly in the (admittedly long-odds)
+hope of one day making work optional. I wouldn't bet on it, but it's a fun problem to chip away at.
 
-My personal passion lies primarily in the statistics and machine learning aspects of forecasting markets and asset values into the future. 
-Something which is notoriously difficult (verging on impossible even today) whilst being highly qualified professionals
-full time job.
+## Analytics & Numerical Modelling.
+I've always enjoyed mathematics — enough that I extended my undergraduate degree by a year to pick up a major in it.
+There's something genuinely satisfying about watching an analytic expression that describes the world around us get
+broken down into something a computer can actually compute. More than a decade after starting university, that
+process still hasn't lost its appeal.
 
-This interest is aimed towards the faint hope to be able retire early. (I don't like my chances however, I'll keep you posted..)
-
-## Analytics & Numerical Modeling.
-I know I'm the odd one out, but I've always enjoyed Mathematics *(to the extent that I extended my degree a year to get a
-major in it)*
-
-Understanding how the analytic expressions can be used to describe the world around us. Along with the numerical and 
-computational processes involved in breaking them down into a language a computer understands is a process that, still
-now, over 12 years after starting university, still blows my mind!
-
-I love diving into the worlds of computational fluid dynamics, discrete element methods, and finite element analysis.
-
+I particularly enjoy working in computational fluid dynamics, discrete element methods, and finite element analysis —
+partly for the engineering applications, and partly because the underlying numerical methods are interesting in
+their own right.
 
 ## Statistics, Machine Learning & Data Analysis.
-Ever since completing my first statistics course in 
-I'm always looking for ways to crunch numbers and find patterns, particularly in finance and real estate.
+My interest in statistics and data analysis started with my first university course in the subject and has stuck
+with me since. I'm always looking for an excuse to apply it — most often to finance and real estate, where there's
+no shortage of data, and no shortage of bad assumptions worth testing.
 
 ## Automation & Software.
-I'm a firm believer that <span style="text-decoration:underline; text-decoration-thickness: 1px;">the difference between a good and a great tradesman is,
-one never blames his tools, and the other makes their own.</span>
+I subscribe to the idea that *the difference between a good tradesman and a great one is that one never blames his
+tools — and the other makes his own.* For an engineer, that toolset lives mostly in software rather than hardware,
+but the principle holds.
 
-In this context the difference is an engineers tooling more generally exists in software whilst a tradesman's tools are more often than not hardware.
-
-My objective with automation and software, is to be a not just a **good** engineer but a **great** one. 
-By learning to make my own tools that solve the problems I face through my career while also accelerating my work output. 
+My goal with automation and software isn't just to be a good engineer, but a great one — by building the tools that
+solve the problems I actually face, and that make the rest of the work faster. In practice, that's meant a fair
+amount of time in Linux (NixOS, specifically), Python, C++, and Emacs, building out a development environment and a
+set of personal tools I keep iterating on.
 
 ## Disclaimer.
-Feel free to copy and use anything you find on this site however, I can't and don't offer any warranties or take
-responsibility for what you do with it. Use at your own risk!
+Feel free to use anything you find on this site — code, ideas, or otherwise — but I can't offer any warranties or
+take responsibility for what you do with it. Use at your own risk.
 
-If you have any ideas you'd like to share or want to collaborate or even put me to work for you feel free to reach out 
-via the [Put me to work](/contact) link in the main menu. 
-
-I look forward to hearing from you!
+If you have an idea you'd like to share, want to collaborate, or think I could help with something you're working
+on, get in touch via the [Get in Touch](/contact) link in the main menu. I'd love to hear from you.
