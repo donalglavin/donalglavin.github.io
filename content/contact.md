@@ -5,7 +5,7 @@ tags: []
 date: '2024-12-01'
 title: Get in Touch
 ---
-# Get in Touch.
+
 I'm currently based in Australia and actively looking for my next role as a Mechanical Engineer, with a particular
 interest in reliability, asset management, and capital projects within mining and heavy industry.
 
